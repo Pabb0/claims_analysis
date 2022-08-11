@@ -5,3 +5,4 @@ openpyxl==3.0.10
 mapclassify==2.4.3
 pygam==0.8.0
 optbinning==0.15.0
+statsmodels==0.13.2
